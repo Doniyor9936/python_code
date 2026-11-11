@@ -1,0 +1,1 @@
+students = ["Sarvinoz","Donoxon","Maqsuda","Ogabek","Bekzod"]
